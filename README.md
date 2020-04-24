@@ -1,2 +1,4 @@
 # fetchPokemon
-Buscando cards Pokémon com API Fetch
+GET de cards Pokémon em Endpoint separados por tipo
+
+Visualização: https://devjef.github.io/fetchPokemon/
