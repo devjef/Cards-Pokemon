@@ -1,4 +1,5 @@
 # fetchPokemon
-GET de cards Pokémon em Endpoint separados por tipo
 
-Visualização: https://devjef.github.io/Cards-Pokemon/
+> GET de cards Pokémon em Endpoint separados por tipo
+
+[Acessar](https://devjef.github.io/cards-pokemon/)
