@@ -1,4 +1,4 @@
-# fetchPokemon
+# Cards Pokémon
 
 > GET de cards Pokémon em Endpoint separados por tipo
 
