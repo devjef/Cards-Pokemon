@@ -1,5 +1,3 @@
 # Cards Pokémon
 
-> GET de cards Pokémon em Endpoint separados por tipo
-
-[Acessar](https://devjef.github.io/cards-pokemon/)
+> GET de cards Pokémon com exibição organizada por tipos

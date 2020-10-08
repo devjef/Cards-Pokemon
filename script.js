@@ -113,4 +113,3 @@ document.querySelector('#btnFogo').addEventListener('click', typeFogo);
 document.querySelector('#btnGrama').addEventListener('click', typeGrama);
 
 document.querySelector('#btnEletrico').addEventListener('click', typeEletrico);
-
